@@ -1,4 +1,4 @@
-# Intelligent Classification of Rural Infrastructure Projects 🚧🏗️
+# Intelligent Classification of Rural Infrastructure Projects 
 
 ### AICTE-Edunet-IBM Internship Capstone Project  
 **Intern:** Dhananjay Kumar Sharma  
@@ -100,4 +100,3 @@ This project was completed as part of the **AICTE-Edunet-IBM SkillsBuild Interns
 Thanks to **Edunet Foundation**, **AICTE**, and **IBM SkillsBuild** for the opportunity to work on a real-world, impact-driven project with cutting-edge technologies.
 
 ---
-
